@@ -57,10 +57,10 @@ export default function SDICaseStudy() {
           <motion.div {...fadeIn} transition={{ delay: 0.1 }} className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-sm border border-slate-200/60 transition-all hover:shadow-md">
             <div className="flex items-center gap-3 mb-3">
               <Users className="w-6 h-6 text-blue-600" />
-              <span className="text-4xl font-black text-slate-900 tracking-tight">Global</span>
+              <span className="text-4xl font-black text-slate-900 tracking-tight">50+</span>
             </div>
-            <p className="text-slate-700 font-bold uppercase tracking-wider text-xs">SDR Team Rollout</p>
-            <p className="text-sm text-slate-500 mt-2">100% adoption across the entire organization</p>
+            <p className="text-slate-700 font-bold uppercase tracking-wider text-xs">Teams Empowered</p>
+            <p className="text-sm text-slate-500 mt-2">Adopted by sales teams across enterprise organizations</p>
           </motion.div>
           <motion.div {...fadeIn} transition={{ delay: 0.2 }} className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-sm border border-slate-200/60 transition-all hover:shadow-md">
             <div className="flex items-center gap-3 mb-3">
