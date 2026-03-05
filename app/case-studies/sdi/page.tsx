@@ -57,10 +57,10 @@ export default function SDICaseStudy() {
           <motion.div {...fadeIn} transition={{ delay: 0.1 }} className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-sm border border-slate-200/60 transition-all hover:shadow-md">
             <div className="flex items-center gap-3 mb-3">
               <Users className="w-6 h-6 text-blue-600" />
-              <span className="text-4xl font-black text-slate-900 tracking-tight">15+</span>
+              <span className="text-4xl font-black text-slate-900 tracking-tight">Global</span>
             </div>
-            <p className="text-slate-700 font-bold uppercase tracking-wider text-xs">SDRs empowered</p>
-            <p className="text-sm text-slate-500 mt-2">Full adoption across the sales team</p>
+            <p className="text-slate-700 font-bold uppercase tracking-wider text-xs">SDR Team Rollout</p>
+            <p className="text-sm text-slate-500 mt-2">100% adoption across the entire organization</p>
           </motion.div>
           <motion.div {...fadeIn} transition={{ delay: 0.2 }} className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 shadow-sm border border-slate-200/60 transition-all hover:shadow-md">
             <div className="flex items-center gap-3 mb-3">
@@ -172,13 +172,13 @@ export default function SDICaseStudy() {
             </div>
             <div className="prose prose-lg text-slate-700 max-w-none space-y-6">
               <p>
-                SDI was rolled out to the entire SDR team, becoming their primary tool for prospecting and account research.
+                SDI was rolled out to the entire SDR team, significantly increasing the adoption of the Golden Database by shifting users away from complex, friction-heavy filter logic to a seamless NLP-based interface.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-10 font-bold">
                 <div className="bg-emerald-50 rounded-2xl p-8 border border-emerald-100 flex items-center justify-between">
-                  <span className="text-slate-700">Interface Paradigm</span>
-                  <span className="text-2xl text-emerald-600">Pure NLP</span>
+                  <span className="text-slate-700">Database Adoption Growth</span>
+                  <span className="text-3xl text-emerald-600">3x</span>
                 </div>
                 <div className="bg-blue-50 rounded-2xl p-8 border border-blue-100 flex items-center justify-between">
                   <span className="text-slate-700">Self-Service Ratio</span>
