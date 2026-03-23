@@ -58,8 +58,8 @@ export default function Home() {
             <CaseStudyCard
               title="SDI (Salesforce Data Intelligence)"
               description="Developed a LangChain-powered NLP layer that allows sales reps to query the Golden Database seamlessly, completely eliminating the need for complex database filters."
-              metric="NLP"
-              metricLabel="Interface UX"
+              metric="3x"
+              metricLabel="Database Adoption"
               category="Shipped Product"
               slug="sdi"
               iconName="sparkles"
